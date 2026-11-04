@@ -1,0 +1,7 @@
+anthropic>=0.40
+Pillow>=10.1
+numpy>=1.26
+google-api-python-client>=2.100
+google-auth>=2.23
+google-auth-oauthlib>=1.1
+composio>=0.8   # only needed if UPLOADER=composio

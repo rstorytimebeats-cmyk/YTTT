@@ -1,0 +1,23 @@
+{
+  "title": "What if you never slept again?",
+  "description": "A quick, funny look at what happens when sleep stops. #shorts #whatif",
+  "tags": ["what if", "science", "sleep", "shorts"],
+  "theme": "night", "mood": "mystery",
+  "hook": {"line1": "WHAT IF", "line2": "you never slept again?"},
+  "beats": [
+    {"kind": "stat", "headline": "The record without sleep", "sub": "Randy Gardner did it in 1964. Do not copy him.", "sfx": "ding",
+     "data": {"value": 11, "unit": "days", "label": "awake in a row (documented)"}},
+    {"kind": "compare", "headline": "Your brain on no sleep", "sub": "Reaction time gets slower, fast.", "sfx": "boing",
+     "data": {"a_label": "Rested", "a_value": 250, "b_label": "Sleepless", "b_value": 600, "unit": "ms"}},
+    {"kind": "meter", "headline": "Day by day", "sub": "Your mood has left the chat.", "sfx": "buzz",
+     "data": {"label": "Grumpiness", "levels": ["Fine", "Cranky", "Yikes", "Yelling"], "target": 0.9}},
+    {"kind": "timeline", "headline": "What you would notice", "sub": "It gets weird by the end.", "sfx": "whoosh",
+     "data": {"points": [{"when": "Day 1", "what": "Coffee becomes a personality"}, {"when": "Day 3", "what": "Focus is gone"}, {"when": "Day 5", "what": "Seeing things that are not there"}]}},
+    {"kind": "reaction", "headline": "Bob, how are you feeling?", "sub": "Sleep is not optional.", "sfx": "sad",
+     "data": {"pose": "dizzy", "bubble": "I can see sounds. Send help."}},
+    {"kind": "list", "headline": "Better plan", "sub": "Sleep. It is free.", "sfx": "cheer",
+     "data": {"items": ["Same bedtime daily", "Phone away an hour early", "Dark, cool room"]}}
+  ],
+  "outro": {"line1": "Follow for more WHAT IFs", "line2": "Comment what to simulate next"},
+  "facts": [{"claim": "Randy Gardner stayed awake about 11 days in 1964", "source_hint": "widely documented sleep deprivation record attempt"}]
+}
