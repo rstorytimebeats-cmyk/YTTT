@@ -1,0 +1,32 @@
+name: post-video
+on:
+  schedule:
+    - cron: "0 17 * * *"
+    - cron: "0 2 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency: factory
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.11" }
+      - run: sudo apt-get update && sudo apt-get install -y ffmpeg fonts-dejavu-core
+      - run: pip install -r requirements.txt
+      - name: Make and post one video
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          UPLOADER: ${{ vars.UPLOADER || 'none' }}
+          PRIVACY: ${{ vars.PRIVACY || 'private' }}
+        run: python -m factory.pipeline post
+      - name: Keep finished videos
+        uses: actions/upload-artifact@v4
+        with: { name: videos, path: output/*, retention-days: 14, if-no-files-found: ignore }
+      - name: Save state and dashboard
+        run: |
+          git config user.name "factory-bot"; git config user.email "bot@users.noreply.github.com"
+          git add state docs; git diff --cached --quiet || (git commit -m "update state" && git pull --rebase && git push)
