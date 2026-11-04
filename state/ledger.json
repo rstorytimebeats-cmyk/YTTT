@@ -22,7 +22,7 @@
       "topic": "dinosaurs came back",
       "category": "",
       "fact_hook": "",
-      "status": "planned"
+      "status": "done"
     },
     {
       "topic": "humans could fly like birds",
@@ -186,6 +186,17 @@
       "file": "output/2026-11-04_what-if-you-stopped-blinking_a1.mp4",
       "views": 0,
       "url": ""
+    },
+    {
+      "topic": "dinosaurs came back",
+      "title": "What if dinosaurs came back?",
+      "date": "2026-11-04",
+      "score": "off",
+      "attempts": 1,
+      "privacy": "private",
+      "file": "output/2026-11-04_what-if-dinosaurs-came-back_a1.mp4",
+      "views": 0,
+      "url": ""
     }
   ],
   "stats": {},
@@ -212,6 +223,9 @@
     "2026-11-04 02:14 UTC  REJECTED after 4 attempts, nothing posted: all the bees disappeared",
     "2026-11-04 02:40 UTC  [you stopped blinking] attempt 1: writing storyboard",
     "2026-11-04 02:42 UTC  judge: overall off {} safety=True approved=True",
-    "2026-11-04 02:42 UTC  READY (not uploaded; mode=hand-off): output/2026-11-04_what-if-you-stopped-blinking_a1.mp4"
+    "2026-11-04 02:42 UTC  READY (not uploaded; mode=hand-off): output/2026-11-04_what-if-you-stopped-blinking_a1.mp4",
+    "2026-11-04 17:50 UTC  [dinosaurs came back] attempt 1: writing storyboard",
+    "2026-11-04 17:52 UTC  judge: overall off {} safety=True approved=True",
+    "2026-11-04 17:52 UTC  READY (not uploaded; mode=hand-off): output/2026-11-04_what-if-dinosaurs-came-back_a1.mp4"
   ]
 }
