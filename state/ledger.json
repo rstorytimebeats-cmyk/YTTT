@@ -10,7 +10,7 @@
       "topic": "all the bees disappeared",
       "category": "",
       "fact_hook": "",
-      "status": "planned"
+      "status": "rejected"
     },
     {
       "topic": "you stopped blinking",
@@ -188,6 +188,15 @@
     "2026-11-04 00:05 UTC  writer error: Connection error.",
     "2026-11-04 00:05 UTC  [you never slept again] attempt 4: writing storyboard",
     "2026-11-04 00:05 UTC  writer error: Connection error.",
-    "2026-11-04 00:05 UTC  REJECTED after 4 attempts, nothing posted: you never slept again"
+    "2026-11-04 00:05 UTC  REJECTED after 4 attempts, nothing posted: you never slept again",
+    "2026-11-04 02:07 UTC  [all the bees disappeared] attempt 1: writing storyboard",
+    "2026-11-04 02:08 UTC  judge: overall 5.5 {'hook': 5.0, 'humor': 5.0, 'clarity': 5.0, 'visuals': 5.0, 'pacing': 6.0, 'accuracy': 7.0} safety=True approved=False",
+    "2026-11-04 02:08 UTC  [all the bees disappeared] attempt 2: writing storyboard",
+    "2026-11-04 02:10 UTC  judge: overall 5.83 {'hook': 6.0, 'humor': 5.0, 'clarity': 6.0, 'visuals': 5.0, 'pacing': 6.0, 'accuracy': 7.0} safety=True approved=False",
+    "2026-11-04 02:10 UTC  [all the bees disappeared] attempt 3: writing storyboard",
+    "2026-11-04 02:12 UTC  judge: overall 5.5 {'hook': 5.0, 'humor': 5.0, 'clarity': 6.0, 'visuals': 5.0, 'pacing': 5.0, 'accuracy': 7.0} safety=True approved=False",
+    "2026-11-04 02:12 UTC  [all the bees disappeared] attempt 4: writing storyboard",
+    "2026-11-04 02:14 UTC  judge: overall 5.5 {'hook': 6.0, 'humor': 5.0, 'clarity': 5.0, 'visuals': 5.0, 'pacing': 5.0, 'accuracy': 7.0} safety=True approved=False",
+    "2026-11-04 02:14 UTC  REJECTED after 4 attempts, nothing posted: all the bees disappeared"
   ]
 }
