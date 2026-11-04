@@ -16,7 +16,7 @@
       "topic": "you stopped blinking",
       "category": "",
       "fact_hook": "",
-      "status": "planned"
+      "status": "done"
     },
     {
       "topic": "dinosaurs came back",
@@ -175,7 +175,19 @@
       "status": "planned"
     }
   ],
-  "videos": [],
+  "videos": [
+    {
+      "topic": "you stopped blinking",
+      "title": "What if you stopped blinking?",
+      "date": "2026-11-04",
+      "score": "off",
+      "attempts": 1,
+      "privacy": "private",
+      "file": "output/2026-11-04_what-if-you-stopped-blinking_a1.mp4",
+      "views": 0,
+      "url": ""
+    }
+  ],
   "stats": {},
   "stats_history": [],
   "earnings": [],
@@ -197,6 +209,9 @@
     "2026-11-04 02:12 UTC  judge: overall 5.5 {'hook': 5.0, 'humor': 5.0, 'clarity': 6.0, 'visuals': 5.0, 'pacing': 5.0, 'accuracy': 7.0} safety=True approved=False",
     "2026-11-04 02:12 UTC  [all the bees disappeared] attempt 4: writing storyboard",
     "2026-11-04 02:14 UTC  judge: overall 5.5 {'hook': 6.0, 'humor': 5.0, 'clarity': 5.0, 'visuals': 5.0, 'pacing': 5.0, 'accuracy': 7.0} safety=True approved=False",
-    "2026-11-04 02:14 UTC  REJECTED after 4 attempts, nothing posted: all the bees disappeared"
+    "2026-11-04 02:14 UTC  REJECTED after 4 attempts, nothing posted: all the bees disappeared",
+    "2026-11-04 02:40 UTC  [you stopped blinking] attempt 1: writing storyboard",
+    "2026-11-04 02:42 UTC  judge: overall off {} safety=True approved=True",
+    "2026-11-04 02:42 UTC  READY (not uploaded; mode=hand-off): output/2026-11-04_what-if-you-stopped-blinking_a1.mp4"
   ]
 }
