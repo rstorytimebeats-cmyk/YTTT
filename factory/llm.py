@@ -3,14 +3,20 @@ import base64, json, os, re
 
 def _client():
     import anthropic
-    return anthropic.Anthropic()  # reads ANTHROPIC_API_KEY
+    key = os.environ.get("ANTHROPIC_API_KEY", "").strip().strip('"').strip("'")
+    if not key:
+        raise RuntimeError("ANTHROPIC_API_KEY secret is missing or empty")
+    return anthropic.Anthropic(api_key=key)
 
 def ask(model, system, user, image_paths=None, max_tokens=4000):
     content = []
     for p in image_paths or []:
         content.append({"type": "image", "source": {"type": "base64", "media_type": "image/png", "data": base64.b64encode(open(p, "rb").read()).decode()}})
     content.append({"type": "text", "text": user})
-    r = _client().messages.create(model=model, max_tokens=max_tokens, system=system, messages=[{"role": "user", "content": content}])
+    try:
+        r = _client().messages.create(model=model, max_tokens=max_tokens, system=system, messages=[{"role": "user", "content": content}])
+    except Exception as ex:
+        raise RuntimeError(f"{type(ex).__name__}: {ex} | cause: {ex.__cause__!r}") from ex
     return "".join(b.text for b in r.content if getattr(b, "type", "") == "text")
 
 def parse_json(text):
