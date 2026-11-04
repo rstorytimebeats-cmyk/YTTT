@@ -4,7 +4,7 @@
       "topic": "you never slept again",
       "category": "",
       "fact_hook": "",
-      "status": "planned"
+      "status": "rejected"
     },
     {
       "topic": "all the bees disappeared",
@@ -179,5 +179,15 @@
   "stats": {},
   "stats_history": [],
   "earnings": [],
-  "log": []
+  "log": [
+    "2026-11-04 00:05 UTC  [you never slept again] attempt 1: writing storyboard",
+    "2026-11-04 00:05 UTC  writer error: Connection error.",
+    "2026-11-04 00:05 UTC  [you never slept again] attempt 2: writing storyboard",
+    "2026-11-04 00:05 UTC  writer error: Connection error.",
+    "2026-11-04 00:05 UTC  [you never slept again] attempt 3: writing storyboard",
+    "2026-11-04 00:05 UTC  writer error: Connection error.",
+    "2026-11-04 00:05 UTC  [you never slept again] attempt 4: writing storyboard",
+    "2026-11-04 00:05 UTC  writer error: Connection error.",
+    "2026-11-04 00:05 UTC  REJECTED after 4 attempts, nothing posted: you never slept again"
+  ]
 }
