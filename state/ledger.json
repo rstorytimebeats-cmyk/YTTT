@@ -34,7 +34,7 @@
       "topic": "the internet went down for a day",
       "category": "",
       "fact_hook": "",
-      "status": "planned"
+      "status": "done"
     },
     {
       "topic": "you were shrunk to ant size",
@@ -208,6 +208,17 @@
       "file": "output/2026-11-05_what-if-humans-could-fly-like-birds_a1.mp4",
       "views": 0,
       "url": ""
+    },
+    {
+      "topic": "the internet went down for a day",
+      "title": "What if the internet went down for a day?",
+      "date": "2026-11-05",
+      "score": "off",
+      "attempts": 1,
+      "privacy": "private",
+      "file": "output/2026-11-05_what-if-the-internet-went-down-for-a-day_a1.mp4",
+      "views": 0,
+      "url": ""
     }
   ],
   "stats": {},
@@ -240,6 +251,9 @@
     "2026-11-04 17:52 UTC  READY (not uploaded; mode=hand-off): output/2026-11-04_what-if-dinosaurs-came-back_a1.mp4",
     "2026-11-05 02:48 UTC  [humans could fly like birds] attempt 1: writing storyboard",
     "2026-11-05 02:50 UTC  judge: overall off {} safety=True approved=True",
-    "2026-11-05 02:50 UTC  READY (not uploaded; mode=hand-off): output/2026-11-05_what-if-humans-could-fly-like-birds_a1.mp4"
+    "2026-11-05 02:50 UTC  READY (not uploaded; mode=hand-off): output/2026-11-05_what-if-humans-could-fly-like-birds_a1.mp4",
+    "2026-11-05 17:53 UTC  [the internet went down for a day] attempt 1: writing storyboard",
+    "2026-11-05 17:55 UTC  judge: overall off {} safety=True approved=True",
+    "2026-11-05 17:55 UTC  READY (not uploaded; mode=hand-off): output/2026-11-05_what-if-the-internet-went-down-for-a-day_a1.mp4"
   ]
 }
