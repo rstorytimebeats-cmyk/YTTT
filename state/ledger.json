@@ -58,7 +58,7 @@
       "topic": "you ate only pizza for a month",
       "category": "",
       "fact_hook": "",
-      "status": "planned"
+      "status": "done"
     },
     {
       "topic": "you held a lightning bolt",
@@ -252,6 +252,17 @@
       "file": "output/2026-11-07_what-if-money-disappeared-overnight_a1.mp4",
       "views": 0,
       "url": ""
+    },
+    {
+      "topic": "you ate only pizza for a month",
+      "title": "What if you ate only pizza for a month?",
+      "date": "2026-11-07",
+      "score": "off",
+      "attempts": 1,
+      "privacy": "private",
+      "file": "output/2026-11-07_what-if-you-ate-only-pizza-for-a-month_a1.mp4",
+      "views": 0,
+      "url": ""
     }
   ],
   "stats": {},
@@ -296,6 +307,9 @@
     "2026-11-06 17:46 UTC  READY (not uploaded; mode=hand-off): output/2026-11-06_what-if-you-stood-at-the-bottom-of-the-mariana-tre_a1.mp4",
     "2026-11-07 02:40 UTC  [money disappeared overnight] attempt 1: writing storyboard",
     "2026-11-07 02:41 UTC  judge: overall off {} safety=True approved=True",
-    "2026-11-07 02:41 UTC  READY (not uploaded; mode=hand-off): output/2026-11-07_what-if-money-disappeared-overnight_a1.mp4"
+    "2026-11-07 02:41 UTC  READY (not uploaded; mode=hand-off): output/2026-11-07_what-if-money-disappeared-overnight_a1.mp4",
+    "2026-11-07 17:31 UTC  [you ate only pizza for a month] attempt 1: writing storyboard",
+    "2026-11-07 17:32 UTC  judge: overall off {} safety=True approved=True",
+    "2026-11-07 17:32 UTC  READY (not uploaded; mode=hand-off): output/2026-11-07_what-if-you-ate-only-pizza-for-a-month_a1.mp4"
   ]
 }
