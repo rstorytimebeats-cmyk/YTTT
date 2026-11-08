@@ -64,7 +64,7 @@
       "topic": "you held a lightning bolt",
       "category": "",
       "fact_hook": "",
-      "status": "planned"
+      "status": "done"
     },
     {
       "topic": "you woke up in the year 1850",
@@ -263,6 +263,17 @@
       "file": "output/2026-11-07_what-if-you-ate-only-pizza-for-a-month_a1.mp4",
       "views": 0,
       "url": ""
+    },
+    {
+      "topic": "you held a lightning bolt",
+      "title": "What if you held a lightning bolt?",
+      "date": "2026-11-08",
+      "score": "off",
+      "attempts": 1,
+      "privacy": "private",
+      "file": "output/2026-11-08_what-if-you-held-a-lightning-bolt_a1.mp4",
+      "views": 0,
+      "url": ""
     }
   ],
   "stats": {},
@@ -310,6 +321,9 @@
     "2026-11-07 02:41 UTC  READY (not uploaded; mode=hand-off): output/2026-11-07_what-if-money-disappeared-overnight_a1.mp4",
     "2026-11-07 17:31 UTC  [you ate only pizza for a month] attempt 1: writing storyboard",
     "2026-11-07 17:32 UTC  judge: overall off {} safety=True approved=True",
-    "2026-11-07 17:32 UTC  READY (not uploaded; mode=hand-off): output/2026-11-07_what-if-you-ate-only-pizza-for-a-month_a1.mp4"
+    "2026-11-07 17:32 UTC  READY (not uploaded; mode=hand-off): output/2026-11-07_what-if-you-ate-only-pizza-for-a-month_a1.mp4",
+    "2026-11-08 02:43 UTC  [you held a lightning bolt] attempt 1: writing storyboard",
+    "2026-11-08 02:44 UTC  judge: overall off {} safety=True approved=True",
+    "2026-11-08 02:44 UTC  READY (not uploaded; mode=hand-off): output/2026-11-08_what-if-you-held-a-lightning-bolt_a1.mp4"
   ]
 }
