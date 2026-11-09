@@ -82,7 +82,7 @@
       "topic": "every car was electric tomorrow",
       "category": "",
       "fact_hook": "",
-      "status": "planned"
+      "status": "done"
     },
     {
       "topic": "you lived on a boat for a year",
@@ -296,6 +296,17 @@
       "file": "output/2026-11-09_what-if-you-swam-with-a-megalodon_a1.mp4",
       "views": 0,
       "url": ""
+    },
+    {
+      "topic": "every car was electric tomorrow",
+      "title": "What if every car went electric tomorrow?",
+      "date": "2026-11-09",
+      "score": "off",
+      "attempts": 1,
+      "privacy": "private",
+      "file": "output/2026-11-09_what-if-every-car-went-electric-tomorrow_a1.mp4",
+      "views": 0,
+      "url": ""
     }
   ],
   "stats": {},
@@ -352,6 +363,9 @@
     "2026-11-08 17:32 UTC  READY (not uploaded; mode=hand-off): output/2026-11-08_what-if-you-woke-up-in-the-year-1850_a1.mp4",
     "2026-11-09 02:45 UTC  [you swam with a megalodon] attempt 1: writing storyboard",
     "2026-11-09 02:47 UTC  judge: overall off {} safety=True approved=True",
-    "2026-11-09 02:47 UTC  READY (not uploaded; mode=hand-off): output/2026-11-09_what-if-you-swam-with-a-megalodon_a1.mp4"
+    "2026-11-09 02:47 UTC  READY (not uploaded; mode=hand-off): output/2026-11-09_what-if-you-swam-with-a-megalodon_a1.mp4",
+    "2026-11-09 17:53 UTC  [every car was electric tomorrow] attempt 1: writing storyboard",
+    "2026-11-09 17:54 UTC  judge: overall off {} safety=True approved=True",
+    "2026-11-09 17:54 UTC  READY (not uploaded; mode=hand-off): output/2026-11-09_what-if-every-car-went-electric-tomorrow_a1.mp4"
   ]
 }
