@@ -88,7 +88,7 @@
       "topic": "you lived on a boat for a year",
       "category": "",
       "fact_hook": "",
-      "status": "planned"
+      "status": "done"
     },
     {
       "topic": "everyone spoke the same language",
@@ -307,6 +307,17 @@
       "file": "output/2026-11-09_what-if-every-car-went-electric-tomorrow_a1.mp4",
       "views": 0,
       "url": ""
+    },
+    {
+      "topic": "you lived on a boat for a year",
+      "title": "What if you lived on a boat for a year?",
+      "date": "2026-11-10",
+      "score": "off",
+      "attempts": 1,
+      "privacy": "private",
+      "file": "output/2026-11-10_what-if-you-lived-on-a-boat-for-a-year_a1.mp4",
+      "views": 0,
+      "url": ""
     }
   ],
   "stats": {},
@@ -366,6 +377,9 @@
     "2026-11-09 02:47 UTC  READY (not uploaded; mode=hand-off): output/2026-11-09_what-if-you-swam-with-a-megalodon_a1.mp4",
     "2026-11-09 17:53 UTC  [every car was electric tomorrow] attempt 1: writing storyboard",
     "2026-11-09 17:54 UTC  judge: overall off {} safety=True approved=True",
-    "2026-11-09 17:54 UTC  READY (not uploaded; mode=hand-off): output/2026-11-09_what-if-every-car-went-electric-tomorrow_a1.mp4"
+    "2026-11-09 17:54 UTC  READY (not uploaded; mode=hand-off): output/2026-11-09_what-if-every-car-went-electric-tomorrow_a1.mp4",
+    "2026-11-10 02:44 UTC  [you lived on a boat for a year] attempt 1: writing storyboard",
+    "2026-11-10 02:45 UTC  judge: overall off {} safety=True approved=True",
+    "2026-11-10 02:45 UTC  READY (not uploaded; mode=hand-off): output/2026-11-10_what-if-you-lived-on-a-boat-for-a-year_a1.mp4"
   ]
 }
