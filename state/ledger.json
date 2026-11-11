@@ -100,7 +100,7 @@
       "topic": "you could breathe underwater",
       "category": "",
       "fact_hook": "",
-      "status": "planned"
+      "status": "done"
     },
     {
       "topic": "cats ruled the world",
@@ -329,6 +329,17 @@
       "file": "output/2026-11-10_what-if-everyone-spoke-the-same-language_a1.mp4",
       "views": 0,
       "url": ""
+    },
+    {
+      "topic": "you could breathe underwater",
+      "title": "What if you could breathe underwater?",
+      "date": "2026-11-11",
+      "score": "off",
+      "attempts": 1,
+      "privacy": "private",
+      "file": "output/2026-11-11_what-if-you-could-breathe-underwater_a1.mp4",
+      "views": 0,
+      "url": ""
     }
   ],
   "stats": {},
@@ -394,6 +405,9 @@
     "2026-11-10 02:45 UTC  READY (not uploaded; mode=hand-off): output/2026-11-10_what-if-you-lived-on-a-boat-for-a-year_a1.mp4",
     "2026-11-10 17:44 UTC  [everyone spoke the same language] attempt 1: writing storyboard",
     "2026-11-10 17:46 UTC  judge: overall off {} safety=True approved=True",
-    "2026-11-10 17:46 UTC  READY (not uploaded; mode=hand-off): output/2026-11-10_what-if-everyone-spoke-the-same-language_a1.mp4"
+    "2026-11-10 17:46 UTC  READY (not uploaded; mode=hand-off): output/2026-11-10_what-if-everyone-spoke-the-same-language_a1.mp4",
+    "2026-11-11 02:42 UTC  [you could breathe underwater] attempt 1: writing storyboard",
+    "2026-11-11 02:44 UTC  judge: overall off {} safety=True approved=True",
+    "2026-11-11 02:44 UTC  READY (not uploaded; mode=hand-off): output/2026-11-11_what-if-you-could-breathe-underwater_a1.mp4"
   ]
 }
