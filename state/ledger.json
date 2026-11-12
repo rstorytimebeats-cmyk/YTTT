@@ -118,7 +118,7 @@
       "topic": "you spent a week with no phone",
       "category": "",
       "fact_hook": "",
-      "status": "planned"
+      "status": "done"
     },
     {
       "topic": "the oceans dried up",
@@ -362,6 +362,17 @@
       "file": "output/2026-11-12_what-if-every-tree-stopped-growing-today_a1.mp4",
       "views": 0,
       "url": ""
+    },
+    {
+      "topic": "you spent a week with no phone",
+      "title": "What if you spent a week with no phone",
+      "date": "2026-11-12",
+      "score": "off",
+      "attempts": 1,
+      "privacy": "private",
+      "file": "output/2026-11-12_what-if-you-spent-a-week-with-no-phone_a1.mp4",
+      "views": 0,
+      "url": ""
     }
   ],
   "stats": {},
@@ -436,6 +447,9 @@
     "2026-11-11 17:53 UTC  READY (not uploaded; mode=hand-off): output/2026-11-11_what-if-cats-ruled-the-world_a1.mp4",
     "2026-11-12 02:43 UTC  [trees stopped growing] attempt 1: writing storyboard",
     "2026-11-12 02:44 UTC  judge: overall off {} safety=True approved=True",
-    "2026-11-12 02:44 UTC  READY (not uploaded; mode=hand-off): output/2026-11-12_what-if-every-tree-stopped-growing-today_a1.mp4"
+    "2026-11-12 02:44 UTC  READY (not uploaded; mode=hand-off): output/2026-11-12_what-if-every-tree-stopped-growing-today_a1.mp4",
+    "2026-11-12 17:51 UTC  [you spent a week with no phone] attempt 1: writing storyboard",
+    "2026-11-12 17:52 UTC  judge: overall off {} safety=True approved=True",
+    "2026-11-12 17:52 UTC  READY (not uploaded; mode=hand-off): output/2026-11-12_what-if-you-spent-a-week-with-no-phone_a1.mp4"
   ]
 }
