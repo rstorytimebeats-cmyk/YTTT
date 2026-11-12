@@ -112,7 +112,7 @@
       "topic": "trees stopped growing",
       "category": "",
       "fact_hook": "",
-      "status": "planned"
+      "status": "done"
     },
     {
       "topic": "you spent a week with no phone",
@@ -351,6 +351,17 @@
       "file": "output/2026-11-11_what-if-cats-ruled-the-world_a1.mp4",
       "views": 0,
       "url": ""
+    },
+    {
+      "topic": "trees stopped growing",
+      "title": "What if every tree stopped growing today",
+      "date": "2026-11-12",
+      "score": "off",
+      "attempts": 1,
+      "privacy": "private",
+      "file": "output/2026-11-12_what-if-every-tree-stopped-growing-today_a1.mp4",
+      "views": 0,
+      "url": ""
     }
   ],
   "stats": {},
@@ -422,6 +433,9 @@
     "2026-11-11 02:44 UTC  READY (not uploaded; mode=hand-off): output/2026-11-11_what-if-you-could-breathe-underwater_a1.mp4",
     "2026-11-11 17:52 UTC  [cats ruled the world] attempt 1: writing storyboard",
     "2026-11-11 17:53 UTC  judge: overall off {} safety=True approved=True",
-    "2026-11-11 17:53 UTC  READY (not uploaded; mode=hand-off): output/2026-11-11_what-if-cats-ruled-the-world_a1.mp4"
+    "2026-11-11 17:53 UTC  READY (not uploaded; mode=hand-off): output/2026-11-11_what-if-cats-ruled-the-world_a1.mp4",
+    "2026-11-12 02:43 UTC  [trees stopped growing] attempt 1: writing storyboard",
+    "2026-11-12 02:44 UTC  judge: overall off {} safety=True approved=True",
+    "2026-11-12 02:44 UTC  READY (not uploaded; mode=hand-off): output/2026-11-12_what-if-every-tree-stopped-growing-today_a1.mp4"
   ]
 }
