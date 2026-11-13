@@ -124,7 +124,7 @@
       "topic": "the oceans dried up",
       "category": "",
       "fact_hook": "",
-      "status": "planned"
+      "status": "done"
     },
     {
       "topic": "you stepped on a Lego every hour for a day",
@@ -373,6 +373,17 @@
       "file": "output/2026-11-12_what-if-you-spent-a-week-with-no-phone_a1.mp4",
       "views": 0,
       "url": ""
+    },
+    {
+      "topic": "the oceans dried up",
+      "title": "What if all the oceans dried up overnight?",
+      "date": "2026-11-13",
+      "score": "off",
+      "attempts": 1,
+      "privacy": "private",
+      "file": "output/2026-11-13_what-if-all-the-oceans-dried-up-overnight_a1.mp4",
+      "views": 0,
+      "url": ""
     }
   ],
   "stats": {},
@@ -450,6 +461,9 @@
     "2026-11-12 02:44 UTC  READY (not uploaded; mode=hand-off): output/2026-11-12_what-if-every-tree-stopped-growing-today_a1.mp4",
     "2026-11-12 17:51 UTC  [you spent a week with no phone] attempt 1: writing storyboard",
     "2026-11-12 17:52 UTC  judge: overall off {} safety=True approved=True",
-    "2026-11-12 17:52 UTC  READY (not uploaded; mode=hand-off): output/2026-11-12_what-if-you-spent-a-week-with-no-phone_a1.mp4"
+    "2026-11-12 17:52 UTC  READY (not uploaded; mode=hand-off): output/2026-11-12_what-if-you-spent-a-week-with-no-phone_a1.mp4",
+    "2026-11-13 02:41 UTC  [the oceans dried up] attempt 1: writing storyboard",
+    "2026-11-13 02:42 UTC  judge: overall off {} safety=True approved=True",
+    "2026-11-13 02:42 UTC  READY (not uploaded; mode=hand-off): output/2026-11-13_what-if-all-the-oceans-dried-up-overnight_a1.mp4"
   ]
 }
