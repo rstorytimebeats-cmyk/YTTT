@@ -148,7 +148,7 @@
       "topic": "you ate a ghost pepper",
       "category": "",
       "fact_hook": "",
-      "status": "planned"
+      "status": "done"
     },
     {
       "topic": "every road turned to ice",
@@ -417,6 +417,17 @@
       "file": "output/2026-11-14_what-if-you-had-a-pet-t-rex_a1.mp4",
       "views": 0,
       "url": ""
+    },
+    {
+      "topic": "you ate a ghost pepper",
+      "title": "What if you ate a ghost pepper?",
+      "date": "2026-11-14",
+      "score": "off",
+      "attempts": 1,
+      "privacy": "private",
+      "file": "output/2026-11-14_what-if-you-ate-a-ghost-pepper_a1.mp4",
+      "views": 0,
+      "url": ""
     }
   ],
   "stats": {},
@@ -506,6 +517,9 @@
     "2026-11-14 02:17 UTC  READY (not uploaded; mode=hand-off): output/2026-11-14_what-if-you-could-talk-to-animals_a1.mp4",
     "2026-11-14 02:41 UTC  [you had a pet T. rex] attempt 1: writing storyboard",
     "2026-11-14 02:42 UTC  judge: overall off {} safety=True approved=True",
-    "2026-11-14 02:42 UTC  READY (not uploaded; mode=hand-off): output/2026-11-14_what-if-you-had-a-pet-t-rex_a1.mp4"
+    "2026-11-14 02:42 UTC  READY (not uploaded; mode=hand-off): output/2026-11-14_what-if-you-had-a-pet-t-rex_a1.mp4",
+    "2026-11-14 17:32 UTC  [you ate a ghost pepper] attempt 1: writing storyboard",
+    "2026-11-14 17:33 UTC  judge: overall off {} safety=True approved=True",
+    "2026-11-14 17:33 UTC  READY (not uploaded; mode=hand-off): output/2026-11-14_what-if-you-ate-a-ghost-pepper_a1.mp4"
   ]
 }
