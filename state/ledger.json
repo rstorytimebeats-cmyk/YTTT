@@ -142,7 +142,7 @@
       "topic": "you had a pet T. rex",
       "category": "",
       "fact_hook": "",
-      "status": "planned"
+      "status": "done"
     },
     {
       "topic": "you ate a ghost pepper",
@@ -406,6 +406,17 @@
       "file": "output/2026-11-14_what-if-you-could-talk-to-animals_a1.mp4",
       "views": 0,
       "url": ""
+    },
+    {
+      "topic": "you had a pet T. rex",
+      "title": "What if you had a pet T. rex?",
+      "date": "2026-11-14",
+      "score": "off",
+      "attempts": 1,
+      "privacy": "private",
+      "file": "output/2026-11-14_what-if-you-had-a-pet-t-rex_a1.mp4",
+      "views": 0,
+      "url": ""
     }
   ],
   "stats": {},
@@ -492,6 +503,9 @@
     "2026-11-13 17:47 UTC  READY (not uploaded; mode=hand-off): output/2026-11-13_what-if-you-stepped-on-a-toy-brick-every-hour-for-_a1.mp4",
     "2026-11-14 02:16 UTC  [you could talk to animals] attempt 1: writing storyboard",
     "2026-11-14 02:17 UTC  judge: overall off {} safety=True approved=True",
-    "2026-11-14 02:17 UTC  READY (not uploaded; mode=hand-off): output/2026-11-14_what-if-you-could-talk-to-animals_a1.mp4"
+    "2026-11-14 02:17 UTC  READY (not uploaded; mode=hand-off): output/2026-11-14_what-if-you-could-talk-to-animals_a1.mp4",
+    "2026-11-14 02:41 UTC  [you had a pet T. rex] attempt 1: writing storyboard",
+    "2026-11-14 02:42 UTC  judge: overall off {} safety=True approved=True",
+    "2026-11-14 02:42 UTC  READY (not uploaded; mode=hand-off): output/2026-11-14_what-if-you-had-a-pet-t-rex_a1.mp4"
   ]
 }
