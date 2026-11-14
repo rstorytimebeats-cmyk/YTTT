@@ -136,7 +136,7 @@
       "topic": "you could talk to animals",
       "category": "",
       "fact_hook": "",
-      "status": "planned"
+      "status": "done"
     },
     {
       "topic": "you had a pet T. rex",
@@ -395,6 +395,17 @@
       "file": "output/2026-11-13_what-if-you-stepped-on-a-toy-brick-every-hour-for-_a1.mp4",
       "views": 0,
       "url": ""
+    },
+    {
+      "topic": "you could talk to animals",
+      "title": "What if you could talk to animals?",
+      "date": "2026-11-14",
+      "score": "off",
+      "attempts": 1,
+      "privacy": "private",
+      "file": "output/2026-11-14_what-if-you-could-talk-to-animals_a1.mp4",
+      "views": 0,
+      "url": ""
     }
   ],
   "stats": {},
@@ -478,6 +489,9 @@
     "2026-11-13 02:42 UTC  READY (not uploaded; mode=hand-off): output/2026-11-13_what-if-all-the-oceans-dried-up-overnight_a1.mp4",
     "2026-11-13 17:46 UTC  [you stepped on a Lego every hour for a day] attempt 1: writing storyboard",
     "2026-11-13 17:47 UTC  judge: overall off {} safety=True approved=True",
-    "2026-11-13 17:47 UTC  READY (not uploaded; mode=hand-off): output/2026-11-13_what-if-you-stepped-on-a-toy-brick-every-hour-for-_a1.mp4"
+    "2026-11-13 17:47 UTC  READY (not uploaded; mode=hand-off): output/2026-11-13_what-if-you-stepped-on-a-toy-brick-every-hour-for-_a1.mp4",
+    "2026-11-14 02:16 UTC  [you could talk to animals] attempt 1: writing storyboard",
+    "2026-11-14 02:17 UTC  judge: overall off {} safety=True approved=True",
+    "2026-11-14 02:17 UTC  READY (not uploaded; mode=hand-off): output/2026-11-14_what-if-you-could-talk-to-animals_a1.mp4"
   ]
 }
