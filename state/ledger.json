@@ -154,7 +154,7 @@
       "topic": "every road turned to ice",
       "category": "",
       "fact_hook": "",
-      "status": "planned"
+      "status": "done"
     },
     {
       "topic": "you were the fastest runner alive",
@@ -428,6 +428,17 @@
       "file": "output/2026-11-14_what-if-you-ate-a-ghost-pepper_a1.mp4",
       "views": 0,
       "url": ""
+    },
+    {
+      "topic": "every road turned to ice",
+      "title": "What if every road turned to ice?",
+      "date": "2026-11-15",
+      "score": "off",
+      "attempts": 1,
+      "privacy": "private",
+      "file": "output/2026-11-15_what-if-every-road-turned-to-ice_a1.mp4",
+      "views": 0,
+      "url": ""
     }
   ],
   "stats": {},
@@ -520,6 +531,9 @@
     "2026-11-14 02:42 UTC  READY (not uploaded; mode=hand-off): output/2026-11-14_what-if-you-had-a-pet-t-rex_a1.mp4",
     "2026-11-14 17:32 UTC  [you ate a ghost pepper] attempt 1: writing storyboard",
     "2026-11-14 17:33 UTC  judge: overall off {} safety=True approved=True",
-    "2026-11-14 17:33 UTC  READY (not uploaded; mode=hand-off): output/2026-11-14_what-if-you-ate-a-ghost-pepper_a1.mp4"
+    "2026-11-14 17:33 UTC  READY (not uploaded; mode=hand-off): output/2026-11-14_what-if-you-ate-a-ghost-pepper_a1.mp4",
+    "2026-11-15 02:43 UTC  [every road turned to ice] attempt 1: writing storyboard",
+    "2026-11-15 02:44 UTC  judge: overall off {} safety=True approved=True",
+    "2026-11-15 02:44 UTC  READY (not uploaded; mode=hand-off): output/2026-11-15_what-if-every-road-turned-to-ice_a1.mp4"
   ]
 }
