@@ -173,6 +173,126 @@
       "category": "",
       "fact_hook": "",
       "status": "done"
+    },
+    {
+      "topic": "you had an octopus's three hearts",
+      "category": "animals",
+      "fact_hook": "Octopuses have three hearts and blue copper-based blood; two hearts pump blood through the gills and one pumps it to the body, and the main heart stops beating when they swim.",
+      "status": "done"
+    },
+    {
+      "topic": "you could never forget anything",
+      "category": "body",
+      "fact_hook": "A rare condition called highly superior autobiographical memory has been documented in only a few dozen people, who can recall most days of their lives in detail.",
+      "status": "planned"
+    },
+    {
+      "topic": "you tried to dig a hole to the other side of the Earth",
+      "category": "history",
+      "fact_hook": "The deepest hole ever drilled, the Kola Superdeep Borehole in Russia, reached about 12,262 meters (7.6 miles) and took nearly 20 years, yet it is only a tiny fraction of the way to Earth's center, and temperatures at the bottom hit around 180\u00b0C.",
+      "status": "planned"
+    },
+    {
+      "topic": "it rained for 40 days straight in your town",
+      "category": "weather",
+      "fact_hook": "Mawsynram in India averages over 11,000 mm (about 467 inches) of rain per year, making it one of the wettest places on Earth, and residents wear woven bamboo-and-leaf rain shields called knups.",
+      "status": "planned"
+    },
+    {
+      "topic": "you could only eat bananas for a week",
+      "category": "food",
+      "fact_hook": "Bananas are naturally slightly radioactive because of potassium-40, and the 'banana equivalent dose' is an actual informal unit used to explain radiation levels.",
+      "status": "planned"
+    },
+    {
+      "topic": "you were a goldfish with a 3-second memory",
+      "category": "animals",
+      "fact_hook": "The 3-second goldfish memory is a myth; experiments have shown goldfish can be trained to respond to signals and remember them for weeks or even months.",
+      "status": "planned"
+    },
+    {
+      "topic": "you lived in a medieval castle for a day",
+      "category": "history",
+      "fact_hook": "Medieval castle spiral staircases typically wound clockwise going up, which is commonly said to favor right-handed defenders swinging swords downward against attackers climbing up.",
+      "status": "planned"
+    },
+    {
+      "topic": "your phone battery lasted a whole year",
+      "category": "tech",
+      "fact_hook": "Most smartphones use lithium-ion batteries, which slowly lose capacity with charge cycles, typically dropping to about 80% after around 500 full charge cycles.",
+      "status": "planned"
+    },
+    {
+      "topic": "you ate a whole jar of honey in one sitting",
+      "category": "food",
+      "fact_hook": "Honey never really spoils; edible honey has been found in ancient Egyptian tombs thousands of years old, thanks to its low moisture and natural acidity.",
+      "status": "planned"
+    },
+    {
+      "topic": "you got hiccups that never stopped",
+      "category": "body",
+      "fact_hook": "Charles Osborne hiccupped for about 68 years, from 1922 to 1990, which is recorded as the longest recorded attack of hiccups.",
+      "status": "planned"
+    },
+    {
+      "topic": "you tried to outrun a hungry polar bear on thin ice",
+      "category": "animals",
+      "fact_hook": "Polar bear fur is actually transparent and hollow rather than white, and their skin underneath is black, which helps absorb heat.",
+      "status": "planned"
+    },
+    {
+      "topic": "every clock in the world stopped for a day",
+      "category": "tech",
+      "fact_hook": "GPS satellites carry atomic clocks, and without correcting for relativity effects, GPS positions would drift by roughly 10 kilometers every single day.",
+      "status": "planned"
+    },
+    {
+      "topic": "you got struck by a snowstorm in the Sahara",
+      "category": "weather",
+      "fact_hook": "Snow has actually fallen in the Sahara Desert; the town of Ain Sefra in Algeria saw snow in 1979, 2016, and again in later years.",
+      "status": "planned"
+    },
+    {
+      "topic": "you swapped places with a sloth for a day",
+      "category": "animals",
+      "fact_hook": "Sloths only come down from trees about once a week to poop, and their slow metabolism lets algae grow in their fur.",
+      "status": "planned"
+    },
+    {
+      "topic": "you tried to eat a whole day of food like a Roman gladiator",
+      "category": "history",
+      "fact_hook": "Analysis of gladiator bones from ancient Ephesus found a diet heavy in barley and beans, and gladiators were nicknamed 'barley men' (hordearii).",
+      "status": "planned"
+    },
+    {
+      "topic": "you had a cheetah's speed for one day",
+      "category": "animals",
+      "fact_hook": "A cheetah can accelerate from 0 to about 100 km/h (60 mph) in roughly three seconds but can only sustain top speed for a few hundred meters.",
+      "status": "planned"
+    },
+    {
+      "topic": "all the ice cream in the world melted",
+      "category": "food",
+      "fact_hook": "Ice cream is about half air by volume, an amount called overrun, which is why cheap tubs feel light and why it can be sold by volume.",
+      "status": "planned"
+    },
+    {
+      "topic": "you tried to hold your breath as long as a sperm whale",
+      "category": "oceans",
+      "fact_hook": "Sperm whales can hold their breath for roughly 90 minutes or more while diving over a kilometer deep, storing oxygen mainly in their muscles via myoglobin.",
+      "status": "planned"
+    },
+    {
+      "topic": "you sneezed with your eyes open",
+      "category": "body",
+      "fact_hook": "Sneezes can launch droplets at high speed, and while the idea that your eyes would pop out is a myth, closing them is an automatic reflex.",
+      "status": "planned"
+    },
+    {
+      "topic": "you built a house out of ice like an igloo",
+      "category": "everyday life",
+      "fact_hook": "Igloos can be much warmer inside than outside; with body heat alone, the interior can be around 0\u00b0C to 16\u00b0C while outside air is far below freezing, because snow is a good insulator full of trapped air.",
+      "status": "planned"
     }
   ],
   "videos": [
@@ -472,6 +592,17 @@
       "file": "output/2026-11-16_what-if-your-whole-city-jumped-in-the-pool-at-once_a1.mp4",
       "views": 0,
       "url": ""
+    },
+    {
+      "topic": "you had an octopus's three hearts",
+      "title": "What if you had an octopus's three hearts",
+      "date": "2026-11-18",
+      "score": "off",
+      "attempts": 1,
+      "privacy": "private",
+      "file": "output/2026-11-18_what-if-you-had-an-octopus-s-three-hearts_a1.mp4",
+      "views": 0,
+      "url": ""
     }
   ],
   "stats": {},
@@ -576,6 +707,9 @@
     "2026-11-16 02:48 UTC  READY (not uploaded; mode=hand-off): output/2026-11-16_what-if-you-got-stuck-in-an-elevator-for-a-week_a1.mp4",
     "2026-11-16 17:57 UTC  [your whole city jumped in the pool at once] attempt 1: writing storyboard",
     "2026-11-16 17:59 UTC  judge: overall off {} safety=True approved=True",
-    "2026-11-16 17:59 UTC  READY (not uploaded; mode=hand-off): output/2026-11-16_what-if-your-whole-city-jumped-in-the-pool-at-once_a1.mp4"
+    "2026-11-16 17:59 UTC  READY (not uploaded; mode=hand-off): output/2026-11-16_what-if-your-whole-city-jumped-in-the-pool-at-once_a1.mp4",
+    "2026-11-18 17:54 UTC  [you had an octopus's three hearts] attempt 1: writing storyboard",
+    "2026-11-18 17:55 UTC  judge: overall off {} safety=True approved=True",
+    "2026-11-18 17:55 UTC  READY (not uploaded; mode=hand-off): output/2026-11-18_what-if-you-had-an-octopus-s-three-hearts_a1.mp4"
   ]
 }
