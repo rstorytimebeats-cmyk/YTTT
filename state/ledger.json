@@ -184,7 +184,7 @@
       "topic": "you could never forget anything",
       "category": "body",
       "fact_hook": "A rare condition called highly superior autobiographical memory has been documented in only a few dozen people, who can recall most days of their lives in detail.",
-      "status": "planned"
+      "status": "done"
     },
     {
       "topic": "you tried to dig a hole to the other side of the Earth",
@@ -603,6 +603,17 @@
       "file": "output/2026-11-18_what-if-you-had-an-octopus-s-three-hearts_a1.mp4",
       "views": 0,
       "url": ""
+    },
+    {
+      "topic": "you could never forget anything",
+      "title": "What if you could never forget anything?",
+      "date": "2026-11-19",
+      "score": "off",
+      "attempts": 1,
+      "privacy": "private",
+      "file": "output/2026-11-19_what-if-you-could-never-forget-anything_a1.mp4",
+      "views": 0,
+      "url": ""
     }
   ],
   "stats": {},
@@ -710,6 +721,9 @@
     "2026-11-16 17:59 UTC  READY (not uploaded; mode=hand-off): output/2026-11-16_what-if-your-whole-city-jumped-in-the-pool-at-once_a1.mp4",
     "2026-11-18 17:54 UTC  [you had an octopus's three hearts] attempt 1: writing storyboard",
     "2026-11-18 17:55 UTC  judge: overall off {} safety=True approved=True",
-    "2026-11-18 17:55 UTC  READY (not uploaded; mode=hand-off): output/2026-11-18_what-if-you-had-an-octopus-s-three-hearts_a1.mp4"
+    "2026-11-18 17:55 UTC  READY (not uploaded; mode=hand-off): output/2026-11-18_what-if-you-had-an-octopus-s-three-hearts_a1.mp4",
+    "2026-11-19 02:53 UTC  [you could never forget anything] attempt 1: writing storyboard",
+    "2026-11-19 02:54 UTC  judge: overall off {} safety=True approved=True",
+    "2026-11-19 02:54 UTC  READY (not uploaded; mode=hand-off): output/2026-11-19_what-if-you-could-never-forget-anything_a1.mp4"
   ]
 }
