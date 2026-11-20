@@ -196,7 +196,7 @@
       "topic": "it rained for 40 days straight in your town",
       "category": "weather",
       "fact_hook": "Mawsynram in India averages over 11,000 mm (about 467 inches) of rain per year, making it one of the wettest places on Earth, and residents wear woven bamboo-and-leaf rain shields called knups.",
-      "status": "planned"
+      "status": "done"
     },
     {
       "topic": "you could only eat bananas for a week",
@@ -625,6 +625,17 @@
       "file": "output/2026-11-19_what-if-you-dug-a-hole-to-the-other-side-of-earth_a1.mp4",
       "views": 0,
       "url": ""
+    },
+    {
+      "topic": "it rained for 40 days straight in your town",
+      "title": "What if it rained for 40 days straight in your town?",
+      "date": "2026-11-20",
+      "score": "off",
+      "attempts": 1,
+      "privacy": "private",
+      "file": "output/2026-11-20_what-if-it-rained-for-40-days-straight-in-your-tow_a1.mp4",
+      "views": 0,
+      "url": ""
     }
   ],
   "stats": {},
@@ -738,6 +749,9 @@
     "2026-11-19 02:54 UTC  READY (not uploaded; mode=hand-off): output/2026-11-19_what-if-you-could-never-forget-anything_a1.mp4",
     "2026-11-19 17:53 UTC  [you tried to dig a hole to the other side of the Earth] attempt 1: writing storyboard",
     "2026-11-19 17:54 UTC  judge: overall off {} safety=True approved=True",
-    "2026-11-19 17:54 UTC  READY (not uploaded; mode=hand-off): output/2026-11-19_what-if-you-dug-a-hole-to-the-other-side-of-earth_a1.mp4"
+    "2026-11-19 17:54 UTC  READY (not uploaded; mode=hand-off): output/2026-11-19_what-if-you-dug-a-hole-to-the-other-side-of-earth_a1.mp4",
+    "2026-11-20 02:53 UTC  [it rained for 40 days straight in your town] attempt 1: writing storyboard",
+    "2026-11-20 02:54 UTC  judge: overall off {} safety=True approved=True",
+    "2026-11-20 02:54 UTC  READY (not uploaded; mode=hand-off): output/2026-11-20_what-if-it-rained-for-40-days-straight-in-your-tow_a1.mp4"
   ]
 }
