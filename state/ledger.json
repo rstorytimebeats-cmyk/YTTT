@@ -202,7 +202,7 @@
       "topic": "you could only eat bananas for a week",
       "category": "food",
       "fact_hook": "Bananas are naturally slightly radioactive because of potassium-40, and the 'banana equivalent dose' is an actual informal unit used to explain radiation levels.",
-      "status": "planned"
+      "status": "done"
     },
     {
       "topic": "you were a goldfish with a 3-second memory",
@@ -636,6 +636,17 @@
       "file": "output/2026-11-20_what-if-it-rained-for-40-days-straight-in-your-tow_a1.mp4",
       "views": 0,
       "url": ""
+    },
+    {
+      "topic": "you could only eat bananas for a week",
+      "title": "What if you only ate bananas for a week?",
+      "date": "2026-11-20",
+      "score": "off",
+      "attempts": 1,
+      "privacy": "private",
+      "file": "output/2026-11-20_what-if-you-only-ate-bananas-for-a-week_a1.mp4",
+      "views": 0,
+      "url": ""
     }
   ],
   "stats": {},
@@ -752,6 +763,9 @@
     "2026-11-19 17:54 UTC  READY (not uploaded; mode=hand-off): output/2026-11-19_what-if-you-dug-a-hole-to-the-other-side-of-earth_a1.mp4",
     "2026-11-20 02:53 UTC  [it rained for 40 days straight in your town] attempt 1: writing storyboard",
     "2026-11-20 02:54 UTC  judge: overall off {} safety=True approved=True",
-    "2026-11-20 02:54 UTC  READY (not uploaded; mode=hand-off): output/2026-11-20_what-if-it-rained-for-40-days-straight-in-your-tow_a1.mp4"
+    "2026-11-20 02:54 UTC  READY (not uploaded; mode=hand-off): output/2026-11-20_what-if-it-rained-for-40-days-straight-in-your-tow_a1.mp4",
+    "2026-11-20 17:54 UTC  [you could only eat bananas for a week] attempt 1: writing storyboard",
+    "2026-11-20 17:56 UTC  judge: overall off {} safety=True approved=True",
+    "2026-11-20 17:56 UTC  READY (not uploaded; mode=hand-off): output/2026-11-20_what-if-you-only-ate-bananas-for-a-week_a1.mp4"
   ]
 }
