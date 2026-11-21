@@ -208,7 +208,7 @@
       "topic": "you were a goldfish with a 3-second memory",
       "category": "animals",
       "fact_hook": "The 3-second goldfish memory is a myth; experiments have shown goldfish can be trained to respond to signals and remember them for weeks or even months.",
-      "status": "planned"
+      "status": "done"
     },
     {
       "topic": "you lived in a medieval castle for a day",
@@ -647,6 +647,17 @@
       "file": "output/2026-11-20_what-if-you-only-ate-bananas-for-a-week_a1.mp4",
       "views": 0,
       "url": ""
+    },
+    {
+      "topic": "you were a goldfish with a 3-second memory",
+      "title": "What if you had a 3-second goldfish memory?",
+      "date": "2026-11-21",
+      "score": "off",
+      "attempts": 1,
+      "privacy": "private",
+      "file": "output/2026-11-21_what-if-you-had-a-3-second-goldfish-memory_a1.mp4",
+      "views": 0,
+      "url": ""
     }
   ],
   "stats": {},
@@ -766,6 +777,9 @@
     "2026-11-20 02:54 UTC  READY (not uploaded; mode=hand-off): output/2026-11-20_what-if-it-rained-for-40-days-straight-in-your-tow_a1.mp4",
     "2026-11-20 17:54 UTC  [you could only eat bananas for a week] attempt 1: writing storyboard",
     "2026-11-20 17:56 UTC  judge: overall off {} safety=True approved=True",
-    "2026-11-20 17:56 UTC  READY (not uploaded; mode=hand-off): output/2026-11-20_what-if-you-only-ate-bananas-for-a-week_a1.mp4"
+    "2026-11-20 17:56 UTC  READY (not uploaded; mode=hand-off): output/2026-11-20_what-if-you-only-ate-bananas-for-a-week_a1.mp4",
+    "2026-11-21 02:43 UTC  [you were a goldfish with a 3-second memory] attempt 1: writing storyboard",
+    "2026-11-21 02:45 UTC  judge: overall off {} safety=True approved=True",
+    "2026-11-21 02:45 UTC  READY (not uploaded; mode=hand-off): output/2026-11-21_what-if-you-had-a-3-second-goldfish-memory_a1.mp4"
   ]
 }
