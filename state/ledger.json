@@ -214,7 +214,7 @@
       "topic": "you lived in a medieval castle for a day",
       "category": "history",
       "fact_hook": "Medieval castle spiral staircases typically wound clockwise going up, which is commonly said to favor right-handed defenders swinging swords downward against attackers climbing up.",
-      "status": "planned"
+      "status": "done"
     },
     {
       "topic": "your phone battery lasted a whole year",
@@ -658,6 +658,17 @@
       "file": "output/2026-11-21_what-if-you-had-a-3-second-goldfish-memory_a1.mp4",
       "views": 0,
       "url": ""
+    },
+    {
+      "topic": "you lived in a medieval castle for a day",
+      "title": "What if you lived in a medieval castle for a day?",
+      "date": "2026-11-21",
+      "score": "off",
+      "attempts": 1,
+      "privacy": "private",
+      "file": "output/2026-11-21_what-if-you-lived-in-a-medieval-castle-for-a-day_a1.mp4",
+      "views": 0,
+      "url": ""
     }
   ],
   "stats": {},
@@ -780,6 +791,9 @@
     "2026-11-20 17:56 UTC  READY (not uploaded; mode=hand-off): output/2026-11-20_what-if-you-only-ate-bananas-for-a-week_a1.mp4",
     "2026-11-21 02:43 UTC  [you were a goldfish with a 3-second memory] attempt 1: writing storyboard",
     "2026-11-21 02:45 UTC  judge: overall off {} safety=True approved=True",
-    "2026-11-21 02:45 UTC  READY (not uploaded; mode=hand-off): output/2026-11-21_what-if-you-had-a-3-second-goldfish-memory_a1.mp4"
+    "2026-11-21 02:45 UTC  READY (not uploaded; mode=hand-off): output/2026-11-21_what-if-you-had-a-3-second-goldfish-memory_a1.mp4",
+    "2026-11-21 17:39 UTC  [you lived in a medieval castle for a day] attempt 1: writing storyboard",
+    "2026-11-21 17:40 UTC  judge: overall off {} safety=True approved=True",
+    "2026-11-21 17:40 UTC  READY (not uploaded; mode=hand-off): output/2026-11-21_what-if-you-lived-in-a-medieval-castle-for-a-day_a1.mp4"
   ]
 }
