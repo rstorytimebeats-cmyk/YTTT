@@ -220,7 +220,7 @@
       "topic": "your phone battery lasted a whole year",
       "category": "tech",
       "fact_hook": "Most smartphones use lithium-ion batteries, which slowly lose capacity with charge cycles, typically dropping to about 80% after around 500 full charge cycles.",
-      "status": "planned"
+      "status": "done"
     },
     {
       "topic": "you ate a whole jar of honey in one sitting",
@@ -669,6 +669,17 @@
       "file": "output/2026-11-21_what-if-you-lived-in-a-medieval-castle-for-a-day_a1.mp4",
       "views": 0,
       "url": ""
+    },
+    {
+      "topic": "your phone battery lasted a whole year",
+      "title": "What if your phone battery lasted a whole year",
+      "date": "2026-11-22",
+      "score": "off",
+      "attempts": 1,
+      "privacy": "private",
+      "file": "output/2026-11-22_what-if-your-phone-battery-lasted-a-whole-year_a1.mp4",
+      "views": 0,
+      "url": ""
     }
   ],
   "stats": {},
@@ -794,6 +805,9 @@
     "2026-11-21 02:45 UTC  READY (not uploaded; mode=hand-off): output/2026-11-21_what-if-you-had-a-3-second-goldfish-memory_a1.mp4",
     "2026-11-21 17:39 UTC  [you lived in a medieval castle for a day] attempt 1: writing storyboard",
     "2026-11-21 17:40 UTC  judge: overall off {} safety=True approved=True",
-    "2026-11-21 17:40 UTC  READY (not uploaded; mode=hand-off): output/2026-11-21_what-if-you-lived-in-a-medieval-castle-for-a-day_a1.mp4"
+    "2026-11-21 17:40 UTC  READY (not uploaded; mode=hand-off): output/2026-11-21_what-if-you-lived-in-a-medieval-castle-for-a-day_a1.mp4",
+    "2026-11-22 02:47 UTC  [your phone battery lasted a whole year] attempt 1: writing storyboard",
+    "2026-11-22 02:48 UTC  judge: overall off {} safety=True approved=True",
+    "2026-11-22 02:48 UTC  READY (not uploaded; mode=hand-off): output/2026-11-22_what-if-your-phone-battery-lasted-a-whole-year_a1.mp4"
   ]
 }
