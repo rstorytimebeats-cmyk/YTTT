@@ -226,7 +226,7 @@
       "topic": "you ate a whole jar of honey in one sitting",
       "category": "food",
       "fact_hook": "Honey never really spoils; edible honey has been found in ancient Egyptian tombs thousands of years old, thanks to its low moisture and natural acidity.",
-      "status": "planned"
+      "status": "done"
     },
     {
       "topic": "you got hiccups that never stopped",
@@ -680,6 +680,17 @@
       "file": "output/2026-11-22_what-if-your-phone-battery-lasted-a-whole-year_a1.mp4",
       "views": 0,
       "url": ""
+    },
+    {
+      "topic": "you ate a whole jar of honey in one sitting",
+      "title": "What if you ate a whole jar of honey at once?",
+      "date": "2026-11-22",
+      "score": "off",
+      "attempts": 1,
+      "privacy": "private",
+      "file": "output/2026-11-22_what-if-you-ate-a-whole-jar-of-honey-at-once_a1.mp4",
+      "views": 0,
+      "url": ""
     }
   ],
   "stats": {},
@@ -808,6 +819,9 @@
     "2026-11-21 17:40 UTC  READY (not uploaded; mode=hand-off): output/2026-11-21_what-if-you-lived-in-a-medieval-castle-for-a-day_a1.mp4",
     "2026-11-22 02:47 UTC  [your phone battery lasted a whole year] attempt 1: writing storyboard",
     "2026-11-22 02:48 UTC  judge: overall off {} safety=True approved=True",
-    "2026-11-22 02:48 UTC  READY (not uploaded; mode=hand-off): output/2026-11-22_what-if-your-phone-battery-lasted-a-whole-year_a1.mp4"
+    "2026-11-22 02:48 UTC  READY (not uploaded; mode=hand-off): output/2026-11-22_what-if-your-phone-battery-lasted-a-whole-year_a1.mp4",
+    "2026-11-22 17:40 UTC  [you ate a whole jar of honey in one sitting] attempt 1: writing storyboard",
+    "2026-11-22 17:41 UTC  judge: overall off {} safety=True approved=True",
+    "2026-11-22 17:41 UTC  READY (not uploaded; mode=hand-off): output/2026-11-22_what-if-you-ate-a-whole-jar-of-honey-at-once_a1.mp4"
   ]
 }
