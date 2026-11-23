@@ -232,7 +232,7 @@
       "topic": "you got hiccups that never stopped",
       "category": "body",
       "fact_hook": "Charles Osborne hiccupped for about 68 years, from 1922 to 1990, which is recorded as the longest recorded attack of hiccups.",
-      "status": "planned"
+      "status": "done"
     },
     {
       "topic": "you tried to outrun a hungry polar bear on thin ice",
@@ -691,6 +691,17 @@
       "file": "output/2026-11-22_what-if-you-ate-a-whole-jar-of-honey-at-once_a1.mp4",
       "views": 0,
       "url": ""
+    },
+    {
+      "topic": "you got hiccups that never stopped",
+      "title": "What if you got hiccups that never stopped?",
+      "date": "2026-11-23",
+      "score": "off",
+      "attempts": 1,
+      "privacy": "private",
+      "file": "output/2026-11-23_what-if-you-got-hiccups-that-never-stopped_a1.mp4",
+      "views": 0,
+      "url": ""
     }
   ],
   "stats": {},
@@ -822,6 +833,9 @@
     "2026-11-22 02:48 UTC  READY (not uploaded; mode=hand-off): output/2026-11-22_what-if-your-phone-battery-lasted-a-whole-year_a1.mp4",
     "2026-11-22 17:40 UTC  [you ate a whole jar of honey in one sitting] attempt 1: writing storyboard",
     "2026-11-22 17:41 UTC  judge: overall off {} safety=True approved=True",
-    "2026-11-22 17:41 UTC  READY (not uploaded; mode=hand-off): output/2026-11-22_what-if-you-ate-a-whole-jar-of-honey-at-once_a1.mp4"
+    "2026-11-22 17:41 UTC  READY (not uploaded; mode=hand-off): output/2026-11-22_what-if-you-ate-a-whole-jar-of-honey-at-once_a1.mp4",
+    "2026-11-23 02:51 UTC  [you got hiccups that never stopped] attempt 1: writing storyboard",
+    "2026-11-23 02:52 UTC  judge: overall off {} safety=True approved=True",
+    "2026-11-23 02:52 UTC  READY (not uploaded; mode=hand-off): output/2026-11-23_what-if-you-got-hiccups-that-never-stopped_a1.mp4"
   ]
 }
