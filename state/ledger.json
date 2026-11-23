@@ -238,7 +238,7 @@
       "topic": "you tried to outrun a hungry polar bear on thin ice",
       "category": "animals",
       "fact_hook": "Polar bear fur is actually transparent and hollow rather than white, and their skin underneath is black, which helps absorb heat.",
-      "status": "planned"
+      "status": "done"
     },
     {
       "topic": "every clock in the world stopped for a day",
@@ -702,6 +702,17 @@
       "file": "output/2026-11-23_what-if-you-got-hiccups-that-never-stopped_a1.mp4",
       "views": 0,
       "url": ""
+    },
+    {
+      "topic": "you tried to outrun a hungry polar bear on thin ice",
+      "title": "What if you tried to outrun a hungry polar bear on thin ice",
+      "date": "2026-11-23",
+      "score": "off",
+      "attempts": 1,
+      "privacy": "private",
+      "file": "output/2026-11-23_what-if-you-tried-to-outrun-a-hungry-polar-bear-on_a1.mp4",
+      "views": 0,
+      "url": ""
     }
   ],
   "stats": {},
@@ -836,6 +847,9 @@
     "2026-11-22 17:41 UTC  READY (not uploaded; mode=hand-off): output/2026-11-22_what-if-you-ate-a-whole-jar-of-honey-at-once_a1.mp4",
     "2026-11-23 02:51 UTC  [you got hiccups that never stopped] attempt 1: writing storyboard",
     "2026-11-23 02:52 UTC  judge: overall off {} safety=True approved=True",
-    "2026-11-23 02:52 UTC  READY (not uploaded; mode=hand-off): output/2026-11-23_what-if-you-got-hiccups-that-never-stopped_a1.mp4"
+    "2026-11-23 02:52 UTC  READY (not uploaded; mode=hand-off): output/2026-11-23_what-if-you-got-hiccups-that-never-stopped_a1.mp4",
+    "2026-11-23 18:02 UTC  [you tried to outrun a hungry polar bear on thin ice] attempt 1: writing storyboard",
+    "2026-11-23 18:03 UTC  judge: overall off {} safety=True approved=True",
+    "2026-11-23 18:03 UTC  READY (not uploaded; mode=hand-off): output/2026-11-23_what-if-you-tried-to-outrun-a-hungry-polar-bear-on_a1.mp4"
   ]
 }
