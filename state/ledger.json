@@ -250,7 +250,7 @@
       "topic": "you got struck by a snowstorm in the Sahara",
       "category": "weather",
       "fact_hook": "Snow has actually fallen in the Sahara Desert; the town of Ain Sefra in Algeria saw snow in 1979, 2016, and again in later years.",
-      "status": "planned"
+      "status": "done"
     },
     {
       "topic": "you swapped places with a sloth for a day",
@@ -724,6 +724,17 @@
       "file": "output/2026-11-24_what-if-every-clock-in-the-world-stopped-for-a-day_a1.mp4",
       "views": 0,
       "url": ""
+    },
+    {
+      "topic": "you got struck by a snowstorm in the Sahara",
+      "title": "What if you got caught in a Sahara snowstorm?",
+      "date": "2026-11-24",
+      "score": "off",
+      "attempts": 1,
+      "privacy": "private",
+      "file": "output/2026-11-24_what-if-you-got-caught-in-a-sahara-snowstorm_a1.mp4",
+      "views": 0,
+      "url": ""
     }
   ],
   "stats": {},
@@ -864,6 +875,9 @@
     "2026-11-23 18:03 UTC  READY (not uploaded; mode=hand-off): output/2026-11-23_what-if-you-tried-to-outrun-a-hungry-polar-bear-on_a1.mp4",
     "2026-11-24 02:48 UTC  [every clock in the world stopped for a day] attempt 1: writing storyboard",
     "2026-11-24 02:50 UTC  judge: overall off {} safety=True approved=True",
-    "2026-11-24 02:50 UTC  READY (not uploaded; mode=hand-off): output/2026-11-24_what-if-every-clock-in-the-world-stopped-for-a-day_a1.mp4"
+    "2026-11-24 02:50 UTC  READY (not uploaded; mode=hand-off): output/2026-11-24_what-if-every-clock-in-the-world-stopped-for-a-day_a1.mp4",
+    "2026-11-24 17:52 UTC  [you got struck by a snowstorm in the Sahara] attempt 1: writing storyboard",
+    "2026-11-24 17:53 UTC  judge: overall off {} safety=True approved=True",
+    "2026-11-24 17:53 UTC  READY (not uploaded; mode=hand-off): output/2026-11-24_what-if-you-got-caught-in-a-sahara-snowstorm_a1.mp4"
   ]
 }
