@@ -262,7 +262,7 @@
       "topic": "you tried to eat a whole day of food like a Roman gladiator",
       "category": "history",
       "fact_hook": "Analysis of gladiator bones from ancient Ephesus found a diet heavy in barley and beans, and gladiators were nicknamed 'barley men' (hordearii).",
-      "status": "planned"
+      "status": "done"
     },
     {
       "topic": "you had a cheetah's speed for one day",
@@ -746,6 +746,17 @@
       "file": "output/2026-11-25_what-if-you-swapped-places-with-a-sloth-for-a-day_a1.mp4",
       "views": 0,
       "url": ""
+    },
+    {
+      "topic": "you tried to eat a whole day of food like a Roman gladiator",
+      "title": "What if you ate like a Roman gladiator for a day?",
+      "date": "2026-11-25",
+      "score": "off",
+      "attempts": 1,
+      "privacy": "private",
+      "file": "output/2026-11-25_what-if-you-ate-like-a-roman-gladiator-for-a-day_a1.mp4",
+      "views": 0,
+      "url": ""
     }
   ],
   "stats": {},
@@ -892,6 +903,9 @@
     "2026-11-24 17:53 UTC  READY (not uploaded; mode=hand-off): output/2026-11-24_what-if-you-got-caught-in-a-sahara-snowstorm_a1.mp4",
     "2026-11-25 02:51 UTC  [you swapped places with a sloth for a day] attempt 1: writing storyboard",
     "2026-11-25 02:52 UTC  judge: overall off {} safety=True approved=True",
-    "2026-11-25 02:52 UTC  READY (not uploaded; mode=hand-off): output/2026-11-25_what-if-you-swapped-places-with-a-sloth-for-a-day_a1.mp4"
+    "2026-11-25 02:52 UTC  READY (not uploaded; mode=hand-off): output/2026-11-25_what-if-you-swapped-places-with-a-sloth-for-a-day_a1.mp4",
+    "2026-11-25 17:48 UTC  [you tried to eat a whole day of food like a Roman gladiator] attempt 1: writing storyboard",
+    "2026-11-25 17:50 UTC  judge: overall off {} safety=True approved=True",
+    "2026-11-25 17:50 UTC  READY (not uploaded; mode=hand-off): output/2026-11-25_what-if-you-ate-like-a-roman-gladiator-for-a-day_a1.mp4"
   ]
 }
