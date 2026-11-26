@@ -274,7 +274,7 @@
       "topic": "all the ice cream in the world melted",
       "category": "food",
       "fact_hook": "Ice cream is about half air by volume, an amount called overrun, which is why cheap tubs feel light and why it can be sold by volume.",
-      "status": "planned"
+      "status": "done"
     },
     {
       "topic": "you tried to hold your breath as long as a sperm whale",
@@ -768,6 +768,17 @@
       "file": "output/2026-11-26_what-if-you-had-a-cheetah-s-speed-for-one-day_a1.mp4",
       "views": 0,
       "url": ""
+    },
+    {
+      "topic": "all the ice cream in the world melted",
+      "title": "What if all the ice cream in the world melted?",
+      "date": "2026-11-26",
+      "score": "off",
+      "attempts": 1,
+      "privacy": "private",
+      "file": "output/2026-11-26_what-if-all-the-ice-cream-in-the-world-melted_a1.mp4",
+      "views": 0,
+      "url": ""
     }
   ],
   "stats": {},
@@ -920,6 +931,9 @@
     "2026-11-25 17:50 UTC  READY (not uploaded; mode=hand-off): output/2026-11-25_what-if-you-ate-like-a-roman-gladiator-for-a-day_a1.mp4",
     "2026-11-26 02:48 UTC  [you had a cheetah's speed for one day] attempt 1: writing storyboard",
     "2026-11-26 02:49 UTC  judge: overall off {} safety=True approved=True",
-    "2026-11-26 02:49 UTC  READY (not uploaded; mode=hand-off): output/2026-11-26_what-if-you-had-a-cheetah-s-speed-for-one-day_a1.mp4"
+    "2026-11-26 02:49 UTC  READY (not uploaded; mode=hand-off): output/2026-11-26_what-if-you-had-a-cheetah-s-speed-for-one-day_a1.mp4",
+    "2026-11-26 17:52 UTC  [all the ice cream in the world melted] attempt 1: writing storyboard",
+    "2026-11-26 17:54 UTC  judge: overall off {} safety=True approved=True",
+    "2026-11-26 17:54 UTC  READY (not uploaded; mode=hand-off): output/2026-11-26_what-if-all-the-ice-cream-in-the-world-melted_a1.mp4"
   ]
 }
