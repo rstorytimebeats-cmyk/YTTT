@@ -268,7 +268,7 @@
       "topic": "you had a cheetah's speed for one day",
       "category": "animals",
       "fact_hook": "A cheetah can accelerate from 0 to about 100 km/h (60 mph) in roughly three seconds but can only sustain top speed for a few hundred meters.",
-      "status": "planned"
+      "status": "done"
     },
     {
       "topic": "all the ice cream in the world melted",
@@ -757,6 +757,17 @@
       "file": "output/2026-11-25_what-if-you-ate-like-a-roman-gladiator-for-a-day_a1.mp4",
       "views": 0,
       "url": ""
+    },
+    {
+      "topic": "you had a cheetah's speed for one day",
+      "title": "What if you had a cheetah's speed for one day",
+      "date": "2026-11-26",
+      "score": "off",
+      "attempts": 1,
+      "privacy": "private",
+      "file": "output/2026-11-26_what-if-you-had-a-cheetah-s-speed-for-one-day_a1.mp4",
+      "views": 0,
+      "url": ""
     }
   ],
   "stats": {},
@@ -906,6 +917,9 @@
     "2026-11-25 02:52 UTC  READY (not uploaded; mode=hand-off): output/2026-11-25_what-if-you-swapped-places-with-a-sloth-for-a-day_a1.mp4",
     "2026-11-25 17:48 UTC  [you tried to eat a whole day of food like a Roman gladiator] attempt 1: writing storyboard",
     "2026-11-25 17:50 UTC  judge: overall off {} safety=True approved=True",
-    "2026-11-25 17:50 UTC  READY (not uploaded; mode=hand-off): output/2026-11-25_what-if-you-ate-like-a-roman-gladiator-for-a-day_a1.mp4"
+    "2026-11-25 17:50 UTC  READY (not uploaded; mode=hand-off): output/2026-11-25_what-if-you-ate-like-a-roman-gladiator-for-a-day_a1.mp4",
+    "2026-11-26 02:48 UTC  [you had a cheetah's speed for one day] attempt 1: writing storyboard",
+    "2026-11-26 02:49 UTC  judge: overall off {} safety=True approved=True",
+    "2026-11-26 02:49 UTC  READY (not uploaded; mode=hand-off): output/2026-11-26_what-if-you-had-a-cheetah-s-speed-for-one-day_a1.mp4"
   ]
 }
