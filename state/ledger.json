@@ -286,7 +286,7 @@
       "topic": "you sneezed with your eyes open",
       "category": "body",
       "fact_hook": "Sneezes can launch droplets at high speed, and while the idea that your eyes would pop out is a myth, closing them is an automatic reflex.",
-      "status": "planned"
+      "status": "done"
     },
     {
       "topic": "you built a house out of ice like an igloo",
@@ -790,6 +790,17 @@
       "file": "output/2026-11-27_what-if-you-held-your-breath-like-a-sperm-whale_a1.mp4",
       "views": 0,
       "url": ""
+    },
+    {
+      "topic": "you sneezed with your eyes open",
+      "title": "What if you sneezed with your eyes open?",
+      "date": "2026-11-27",
+      "score": "off",
+      "attempts": 1,
+      "privacy": "private",
+      "file": "output/2026-11-27_what-if-you-sneezed-with-your-eyes-open_a1.mp4",
+      "views": 0,
+      "url": ""
     }
   ],
   "stats": {},
@@ -948,6 +959,9 @@
     "2026-11-26 17:54 UTC  READY (not uploaded; mode=hand-off): output/2026-11-26_what-if-all-the-ice-cream-in-the-world-melted_a1.mp4",
     "2026-11-27 02:50 UTC  [you tried to hold your breath as long as a sperm whale] attempt 1: writing storyboard",
     "2026-11-27 02:51 UTC  judge: overall off {} safety=True approved=True",
-    "2026-11-27 02:51 UTC  READY (not uploaded; mode=hand-off): output/2026-11-27_what-if-you-held-your-breath-like-a-sperm-whale_a1.mp4"
+    "2026-11-27 02:51 UTC  READY (not uploaded; mode=hand-off): output/2026-11-27_what-if-you-held-your-breath-like-a-sperm-whale_a1.mp4",
+    "2026-11-27 17:53 UTC  [you sneezed with your eyes open] attempt 1: writing storyboard",
+    "2026-11-27 17:54 UTC  judge: overall off {} safety=True approved=True",
+    "2026-11-27 17:54 UTC  READY (not uploaded; mode=hand-off): output/2026-11-27_what-if-you-sneezed-with-your-eyes-open_a1.mp4"
   ]
 }
