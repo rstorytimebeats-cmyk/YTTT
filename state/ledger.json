@@ -280,7 +280,7 @@
       "topic": "you tried to hold your breath as long as a sperm whale",
       "category": "oceans",
       "fact_hook": "Sperm whales can hold their breath for roughly 90 minutes or more while diving over a kilometer deep, storing oxygen mainly in their muscles via myoglobin.",
-      "status": "planned"
+      "status": "done"
     },
     {
       "topic": "you sneezed with your eyes open",
@@ -779,6 +779,17 @@
       "file": "output/2026-11-26_what-if-all-the-ice-cream-in-the-world-melted_a1.mp4",
       "views": 0,
       "url": ""
+    },
+    {
+      "topic": "you tried to hold your breath as long as a sperm whale",
+      "title": "What if you held your breath like a sperm whale",
+      "date": "2026-11-27",
+      "score": "off",
+      "attempts": 1,
+      "privacy": "private",
+      "file": "output/2026-11-27_what-if-you-held-your-breath-like-a-sperm-whale_a1.mp4",
+      "views": 0,
+      "url": ""
     }
   ],
   "stats": {},
@@ -934,6 +945,9 @@
     "2026-11-26 02:49 UTC  READY (not uploaded; mode=hand-off): output/2026-11-26_what-if-you-had-a-cheetah-s-speed-for-one-day_a1.mp4",
     "2026-11-26 17:52 UTC  [all the ice cream in the world melted] attempt 1: writing storyboard",
     "2026-11-26 17:54 UTC  judge: overall off {} safety=True approved=True",
-    "2026-11-26 17:54 UTC  READY (not uploaded; mode=hand-off): output/2026-11-26_what-if-all-the-ice-cream-in-the-world-melted_a1.mp4"
+    "2026-11-26 17:54 UTC  READY (not uploaded; mode=hand-off): output/2026-11-26_what-if-all-the-ice-cream-in-the-world-melted_a1.mp4",
+    "2026-11-27 02:50 UTC  [you tried to hold your breath as long as a sperm whale] attempt 1: writing storyboard",
+    "2026-11-27 02:51 UTC  judge: overall off {} safety=True approved=True",
+    "2026-11-27 02:51 UTC  READY (not uploaded; mode=hand-off): output/2026-11-27_what-if-you-held-your-breath-like-a-sperm-whale_a1.mp4"
   ]
 }
