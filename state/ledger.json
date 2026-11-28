@@ -292,7 +292,7 @@
       "topic": "you built a house out of ice like an igloo",
       "category": "everyday life",
       "fact_hook": "Igloos can be much warmer inside than outside; with body heat alone, the interior can be around 0\u00b0C to 16\u00b0C while outside air is far below freezing, because snow is a good insulator full of trapped air.",
-      "status": "planned"
+      "status": "done"
     }
   ],
   "videos": [
@@ -801,6 +801,17 @@
       "file": "output/2026-11-27_what-if-you-sneezed-with-your-eyes-open_a1.mp4",
       "views": 0,
       "url": ""
+    },
+    {
+      "topic": "you built a house out of ice like an igloo",
+      "title": "What if you built a house out of snow like an igloo",
+      "date": "2026-11-28",
+      "score": "off",
+      "attempts": 1,
+      "privacy": "private",
+      "file": "output/2026-11-28_what-if-you-built-a-house-out-of-snow-like-an-iglo_a1.mp4",
+      "views": 0,
+      "url": ""
     }
   ],
   "stats": {},
@@ -962,6 +973,9 @@
     "2026-11-27 02:51 UTC  READY (not uploaded; mode=hand-off): output/2026-11-27_what-if-you-held-your-breath-like-a-sperm-whale_a1.mp4",
     "2026-11-27 17:53 UTC  [you sneezed with your eyes open] attempt 1: writing storyboard",
     "2026-11-27 17:54 UTC  judge: overall off {} safety=True approved=True",
-    "2026-11-27 17:54 UTC  READY (not uploaded; mode=hand-off): output/2026-11-27_what-if-you-sneezed-with-your-eyes-open_a1.mp4"
+    "2026-11-27 17:54 UTC  READY (not uploaded; mode=hand-off): output/2026-11-27_what-if-you-sneezed-with-your-eyes-open_a1.mp4",
+    "2026-11-28 02:45 UTC  [you built a house out of ice like an igloo] attempt 1: writing storyboard",
+    "2026-11-28 02:47 UTC  judge: overall off {} safety=True approved=True",
+    "2026-11-28 02:47 UTC  READY (not uploaded; mode=hand-off): output/2026-11-28_what-if-you-built-a-house-out-of-snow-like-an-iglo_a1.mp4"
   ]
 }
